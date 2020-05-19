@@ -26,3 +26,10 @@ steps:
     image: maven:3.5.2-jdk-8-alpine
     commands:
       - mvn clean package
+  docker_build:
+    type: build
+    stage: build
+    image_name: example-app
+    working_directory: ./
+    tag: 'latest'
+    dockerfile: Dockerfile
