@@ -7,6 +7,6 @@ Control:
 Cached: 
 - [codefresh-cache.yaml](codefresh-cache.yaml)
 
-![First Run](https://github.com/dicksontung/codefresh-maven/static/cached-first.png?raw=true)
+![First Run](https://raw.githubusercontent.com/dicksontung/codefresh-maven/master/static/cached-first.png)
 
-![Consecutive Run](https://github.com/dicksontung/codefresh-maven/static/cached-consecutive.png?raw=true)
+![Consecutive Run](https://raw.githubusercontent.com/dicksontung/codefresh-maven/master/static/cached-consecutive.png)
